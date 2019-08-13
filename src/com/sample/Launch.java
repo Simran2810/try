@@ -20,7 +20,7 @@ public class Launch {
 		System.out.println(t);
 		String u = driver.getCurrentUrl();
 		System.out.println(u);
-		System.out.println("hiiii");
+		System.out.println("heyyyyyy");
 		Thread.sleep(3000);
 		driver.close();
 	}
